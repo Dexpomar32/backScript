@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory where the application should be deployed
-APP_DIR="/var/www/keban.xyz/bot/ContabilitateAPI"  # Replace with the actual path to your deployment directory
+APP_DIR="/var/www/keban.xyz/bot/ContabilitateAPI"
 
 # GitHub repository URL
 REPO_URL="https://github.com/Dexpomar32/ContabilitateAPI.git"
